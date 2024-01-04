@@ -1,0 +1,4 @@
+{
+    "mongoURL": "mongodb+srv://f20201694:Shivakripa22@devcrcluster.ygpjfpc.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "jwtSecret"
+}
